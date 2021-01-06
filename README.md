@@ -3,9 +3,9 @@ The python package can be used to download your total pdb file and find out the 
 ## 介绍
 这个包可以用来自动从rcsb.pdb网站下载pdb文件并统计pdb文件中各种氨基酸的含量情况。
 ## 环境
--python3
--urllib
--math
+- python3
+- urllib
+- math
 ## 输入文件
 无
 ## 输出文件
